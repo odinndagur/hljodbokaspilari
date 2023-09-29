@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="Hringadróttins saga - 1. bindi" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="24948" />
+    <meta name="ncc:totalElapsedTime" content="17:31:25.174" />
+    <meta name="ncc:timeInThisSmil" content="00:13:39.600" />
+    <meta name="ncc:generator" content="Narrator Studio 1.50.2424" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="main" dur="819.600s">
+      <par id="par1" endsync="last">
+        <text id="bgaw_001d" src="ncc.html#bgaw_001d" />
+        <audio id="aud001" clip-begin="npt=0.000s" clip-end="npt=819.600s" src="81_5_kafli_Br_in_Kazad_D_m.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

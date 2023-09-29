@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="Hringadróttins saga - 1. bindi" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:identifier" content="24948" />
+    <meta name="ncc:totalElapsedTime" content="00:00:00.000" />
+    <meta name="ncc:timeInThisSmil" content="22:17:39.158" />
+    <meta name="ncc:generator" content="Narrator Studio 1.50.2424" />
+    <layout>
+      <region id="txtView" />
+    </layout>
+  </head>
+  <body>
+    <ref title="Hringadróttins saga - 1. bindi, Föruneyti Hringsins" src="s001.smil" id="smil001" />
+    <ref title="Texti á bókarkápu" src="s002.smil" id="smil002" />
+    <ref title="Um þessa útgáfu" src="s003.smil" id="smil003" />
+    <ref title="Um þýðinguna" src="s004.smil" id="smil004" />
+    <ref title="Inngangskvæði" src="s005.smil" id="smil005" />
+    <ref title="Efnisyfirlit" src="s006.smil" id="smil006" />
+    <ref title="Formáli" src="s007.smil" id="smil007" />
+    <ref title="Inngangur" src="s008.smil" id="smil008" />
+    <ref title="1. Um Hobbita" src="s009.smil" id="smil009" />
+    <ref title="2. Um reykurtina" src="s010.smil" id="smil010" />
+    <ref title="3. Um stjórnarfar á Héraði" src="s011.smil" id="smil011" />
+    <ref title="4. Hvernig Hringurinn fannst" src="s012.smil" id="smil012" />
+    <ref title="Um Héraðsheimildir" src="s013.smil" id="smil013" />
+    <ref title="Föruneyti Hringsins - Fyrsti hluti Hringadróttinssögu" src="s014.smil" id="smil014" />
+    <ref title="Fyrsta bók" src="s015.smil" id="smil015" />
+    <ref title="1. kafli - Langþráð veisla" src="s016.smil" id="smil016" />
+    <ref title="1" src="s017.smil" id="smil017" />
+    <ref title="2" src="s018.smil" id="smil018" />
+    <ref title="3" src="s019.smil" id="smil019" />
+    <ref title="4" src="s020.smil" id="smil020" />
+    <ref title="2. kafli - Skuggi fortíðar" src="s021.smil" id="smil021" />
+    <ref title="1" src="s022.smil" id="smil022" />
+    <ref title="2" src="s023.smil" id="smil023" />
+    <ref title="3" src="s024.smil" id="smil024" />
+    <ref title="3. kafli - Þrír á ferð" src="s025.smil" id="smil025" />
+    <ref title="1" src="s026.smil" id="smil026" />
+    <ref title="2" src="s027.smil" id="smil027" />
+    <ref title="3" src="s028.smil" id="smil028" />
+    <ref title="4" src="s029.smil" id="smil029" />
+    <ref title="4. kafli - Betri er kelda en krókur" src="s030.smil" id="smil030" />
+    <ref title="1" src="s031.smil" id="smil031" />
+    <ref title="5. kafli - Laumuspil afhjúpað" src="s032.smil" id="smil032" />
+    <ref title="1" src="s033.smil" id="smil033" />
+    <ref title="6. kafli - Forniskógur" src="s034.smil" id="smil034" />
+    <ref title="1" src="s035.smil" id="smil035" />
+    <ref title="2" src="s036.smil" id="smil036" />
+    <ref title="7. kafli - Í Bumbaldabæ" src="s037.smil" id="smil037" />
+    <ref title="1" src="s038.smil" id="smil038" />
+    <ref title="2" src="s039.smil" id="smil039" />
+    <ref title="8. kafli - Þoka á Kumlhólum" src="s040.smil" id="smil040" />
+    <ref title="1" src="s041.smil" id="smil041" />
+    <ref title="2" src="s042.smil" id="smil042" />
+    <ref title="9. kafli - Á fáknum fjöruga" src="s043.smil" id="smil043" />
+    <ref title="1" src="s044.smil" id="smil044" />
+    <ref title="2" src="s045.smil" id="smil045" />
+    <ref title="10. kafli - Stígur" src="s046.smil" id="smil046" />
+    <ref title="1" src="s047.smil" id="smil047" />
+    <ref title="11. kafli - Rýtingur í myrkri" src="s048.smil" id="smil048" />
+    <ref title="1" src="s049.smil" id="smil049" />
+    <ref title="2" src="s050.smil" id="smil050" />
+    <ref title="12. kafli - Flóttinn að vaðinu" src="s051.smil" id="smil051" />
+    <ref title="1" src="s052.smil" id="smil052" />
+    <ref title="2" src="s053.smil" id="smil053" />
+    <ref title="3" src="s054.smil" id="smil054" />
+    <ref title="4" src="s055.smil" id="smil055" />
+    <ref title="5" src="s056.smil" id="smil056" />
+    <ref title="Önnur bók" src="s057.smil" id="smil057" />
+    <ref title="1. kafli - Fagnafundir" src="s058.smil" id="smil058" />
+    <ref title="1" src="s059.smil" id="smil059" />
+    <ref title="2" src="s060.smil" id="smil060" />
+    <ref title="3" src="s061.smil" id="smil061" />
+    <ref title="4" src="s062.smil" id="smil062" />
+    <ref title="2. kafli - Ráðstefna Elronds" src="s063.smil" id="smil063" />
+    <ref title="1" src="s064.smil" id="smil064" />
+    <ref title="2" src="s065.smil" id="smil065" />
+    <ref title="3" src="s066.smil" id="smil066" />
+    <ref title="4" src="s067.smil" id="smil067" />
+    <ref title="5" src="s068.smil" id="smil068" />
+    <ref title="6" src="s069.smil" id="smil069" />
+    <ref title="7" src="s070.smil" id="smil070" />
+    <ref title="3. kafli - Suðurför Hringsins" src="s071.smil" id="smil071" />
+    <ref title="1" src="s072.smil" id="smil072" />
+    <ref title="2" src="s073.smil" id="smil073" />
+    <ref title="3" src="s074.smil" id="smil074" />
+    <ref title="4" src="s075.smil" id="smil075" />
+    <ref title="4. kafli - Ferð í myrkri" src="s076.smil" id="smil076" />
+    <ref title="1" src="s077.smil" id="smil077" />
+    <ref title="2" src="s078.smil" id="smil078" />
+    <ref title="3" src="s079.smil" id="smil079" />
+    <ref title="4" src="s080.smil" id="smil080" />
+    <ref title="5. kafli - Brúin í Kazad-Dúm" src="s081.smil" id="smil081" />
+    <ref title="1" src="s082.smil" id="smil082" />
+    <ref title="2" src="s083.smil" id="smil083" />
+    <ref title="6. kafli - Lotlóríen" src="s084.smil" id="smil084" />
+    <ref title="1" src="s085.smil" id="smil085" />
+    <ref title="2" src="s086.smil" id="smil086" />
+    <ref title="3" src="s087.smil" id="smil087" />
+    <ref title="7. kafli - Skuggsjá Galadríelar" src="s088.smil" id="smil088" />
+    <ref title="1" src="s089.smil" id="smil089" />
+    <ref title="2" src="s090.smil" id="smil090" />
+    <ref title="8. kafli - Lóríen kvatt" src="s091.smil" id="smil091" />
+    <ref title="1" src="s092.smil" id="smil092" />
+    <ref title="2" src="s093.smil" id="smil093" />
+    <ref title="9. kafli - Fljótið mikla" src="s094.smil" id="smil094" />
+    <ref title="1" src="s095.smil" id="smil095" />
+    <ref title="2" src="s096.smil" id="smil096" />
+    <ref title="10. kafli - Föruneytið tvístrast" src="s097.smil" id="smil097" />
+    <ref title="1" src="s098.smil" id="smil098" />
+    <ref title="2" src="s099.smil" id="smil099" />
+  </body>
+</smil>
