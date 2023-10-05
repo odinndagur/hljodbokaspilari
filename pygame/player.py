@@ -13,6 +13,7 @@ class Player():
         self.book = book
         self.display = display
         self.pygame_display = pygame_display
+        self.size = pygame_display.get_size()
 
     def show(self):
         self.now_playing()
@@ -71,6 +72,7 @@ class Player():
         self.display.stroke_rectangle(x-size/2 + (size/3 * 2),y-size/2,size/3,size,white)
 
     def now_playing(self):
+        # self.display.stroke_rectangle(10,10,self.size[0]-20,self.size[1]-20,white)
         self.display.stroke_rectangle(20,20,280,200,white)
         # print(current_pos,current_sound_length)
 
